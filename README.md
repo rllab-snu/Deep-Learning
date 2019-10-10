@@ -7,4 +7,4 @@ Chanho Ahn, Eunwoo Kim, and Songhwai Oh, "Deep Elastic Networks with Model Selec
 
 ## Deep Learning Tutorial
 Deep Learning tutorial with Tensorflow
-[code](https://github.com/rllab-snu/deep_learning_tutorial)]
+[code](https://github.com/rllab-snu/deep_learning_tutorial)
